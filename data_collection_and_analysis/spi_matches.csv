@@ -1,0 +1,381 @@
+﻿date,league_id,team1,team2,prob1,prob2,probtie,pred538
+8/11/17,2411,Arsenal,Leicester City,0.643,0.1563,0.2007,Home Win
+8/12/17,2411,Watford,Liverpool,0.2193,0.5384,0.2423,Away Win
+8/12/17,2411,Everton,Stoke City,0.5129,0.2283,0.2588,Home Win
+8/12/17,2411,Southampton,Swansea City,0.5044,0.2296,0.266,Home Win
+8/12/17,2411,Crystal Palace,Huddersfield Town,0.6,0.1606,0.2393,Home Win
+8/12/17,2411,Chelsea,Burnley,0.7184,0.1011,0.1805,Home Win
+8/12/17,2411,West Bromwich Albion,AFC Bournemouth,0.4246,0.3019,0.2735,Home Win
+8/12/17,2411,Brighton and Hove Albion,Manchester City,0.1143,0.6987,0.1871,Away Win
+8/13/17,2411,Newcastle,Tottenham Hotspur,0.1731,0.6044,0.2226,Away Win
+8/13/17,2411,Manchester United,West Ham United,0.7051,0.0992,0.1957,Home Win
+8/19/17,2411,Swansea City,Manchester United,0.1782,0.5796,0.2423,Away Win
+8/19/17,2411,AFC Bournemouth,Watford,0.471,0.2673,0.2617,Home Win
+8/19/17,2411,Burnley,West Bromwich Albion,0.4893,0.2304,0.2803,Home Win
+8/19/17,2411,Leicester City,Brighton and Hove Albion,0.6063,0.1526,0.2411,Home Win
+8/19/17,2411,Liverpool,Crystal Palace,0.6679,0.1321,0.2,Home Win
+8/19/17,2411,Southampton,West Ham United,0.4937,0.2359,0.2704,Home Win
+8/19/17,2411,Stoke City,Arsenal,0.2681,0.4873,0.2446,Away Win
+8/20/17,2411,Huddersfield Town,Newcastle,0.4021,0.3064,0.2915,Home Win
+8/20/17,2411,Tottenham Hotspur,Chelsea,0.4481,0.2988,0.2531,Home Win
+8/21/17,2411,Manchester City,Everton,0.6746,0.1256,0.1998,Home Win
+8/26/17,2411,AFC Bournemouth,Manchester City,0.1546,0.6423,0.2031,Away Win
+8/26/17,2411,Watford,Brighton and Hove Albion,0.5617,0.1719,0.2664,Home Win
+8/26/17,2411,Crystal Palace,Swansea City,0.4617,0.2655,0.2728,Home Win
+8/26/17,2411,Newcastle,West Ham United,0.3593,0.364,0.2767,Away Win
+8/26/17,2411,Huddersfield Town,Southampton,0.2768,0.4364,0.2868,Away Win
+8/26/17,2411,Manchester United,Leicester City,0.7527,0.0744,0.1729,Home Win
+8/27/17,2411,West Bromwich Albion,Stoke City,0.4028,0.2886,0.3086,Home Win
+8/27/17,2411,Chelsea,Everton,0.6274,0.1564,0.2162,Home Win
+8/27/17,2411,Tottenham Hotspur,Burnley,0.6729,0.1188,0.2083,Home Win
+8/27/17,2411,Liverpool,Arsenal,0.44,0.3215,0.2386,Home Win
+9/9/17,2411,Manchester City,Liverpool,0.5436,0.2212,0.2352,Home Win
+9/9/17,2411,Everton,Tottenham Hotspur,0.297,0.4333,0.2697,Away Win
+9/9/17,2411,Arsenal,AFC Bournemouth,0.7223,0.1073,0.1705,Home Win
+9/9/17,2411,Southampton,Watford,0.5149,0.212,0.2731,Home Win
+9/9/17,2411,Brighton and Hove Albion,West Bromwich Albion,0.3357,0.3388,0.3255,Away Win
+9/9/17,2411,Leicester City,Chelsea,0.2283,0.5379,0.2339,Away Win
+9/9/17,2411,Stoke City,Manchester United,0.1919,0.5488,0.2593,Away Win
+9/10/17,2411,Burnley,Crystal Palace,0.5067,0.2276,0.2658,Home Win
+9/10/17,2411,Swansea City,Newcastle,0.4649,0.252,0.2831,Home Win
+9/11/17,2411,West Ham United,Huddersfield Town,0.5392,0.2017,0.2591,Home Win
+9/15/17,2411,AFC Bournemouth,Brighton and Hove Albion,0.5031,0.2168,0.28,Home Win
+9/16/17,2411,Crystal Palace,Southampton,0.391,0.316,0.293,Home Win
+9/16/17,2411,Watford,Manchester City,0.1484,0.6394,0.2122,Away Win
+9/16/17,2411,Newcastle,Stoke City,0.3605,0.344,0.2955,Home Win
+9/16/17,2411,Liverpool,Burnley,0.6339,0.1497,0.2163,Home Win
+9/16/17,2411,West Bromwich Albion,West Ham United,0.419,0.3002,0.2809,Home Win
+9/16/17,2411,Huddersfield Town,Leicester City,0.2897,0.4276,0.2827,Away Win
+9/16/17,2411,Tottenham Hotspur,Swansea City,0.7824,0.0598,0.1578,Home Win
+9/17/17,2411,Chelsea,Arsenal,0.5506,0.229,0.2204,Home Win
+9/17/17,2411,Manchester United,Everton,0.6978,0.1031,0.1991,Home Win
+9/23/17,2411,West Ham United,Tottenham Hotspur,0.2028,0.556,0.2412,Away Win
+9/23/17,2411,Southampton,Manchester United,0.1903,0.5579,0.2517,Away Win
+9/23/17,2411,Manchester City,Crystal Palace,0.8554,0.0333,0.1113,Home Win
+9/23/17,2411,Swansea City,Watford,0.4391,0.2733,0.2876,Home Win
+9/23/17,2411,Stoke City,Chelsea,0.2171,0.5397,0.2432,Away Win
+9/23/17,2411,Burnley,Huddersfield Town,0.572,0.1629,0.2651,Home Win
+9/23/17,2411,Everton,AFC Bournemouth,0.537,0.2122,0.2508,Home Win
+9/23/17,2411,Leicester City,Liverpool,0.2882,0.4617,0.25,Away Win
+9/24/17,2411,Brighton and Hove Albion,Newcastle,0.3562,0.3351,0.3087,Home Win
+9/25/17,2411,Arsenal,West Bromwich Albion,0.6835,0.1126,0.2039,Home Win
+9/30/17,2411,Huddersfield Town,Tottenham Hotspur,0.1336,0.6407,0.2257,Away Win
+9/30/17,2411,West Bromwich Albion,Watford,0.4213,0.2789,0.2998,Home Win
+9/30/17,2411,Manchester United,Crystal Palace,0.8448,0.0345,0.1207,Home Win
+9/30/17,2411,AFC Bournemouth,Leicester City,0.3648,0.372,0.2632,Away Win
+9/30/17,2411,West Ham United,Swansea City,0.4835,0.246,0.2705,Home Win
+9/30/17,2411,Stoke City,Southampton,0.4189,0.2864,0.2948,Home Win
+9/30/17,2411,Chelsea,Manchester City,0.3615,0.3843,0.2542,Away Win
+10/1/17,2411,Arsenal,Brighton and Hove Albion,0.8061,0.0522,0.1417,Home Win
+10/1/17,2411,Everton,Burnley,0.471,0.2529,0.2761,Home Win
+10/1/17,2411,Newcastle,Liverpool,0.2278,0.5251,0.2471,Away Win
+10/14/17,2411,Liverpool,Manchester United,0.3102,0.4339,0.2559,Away Win
+10/14/17,2411,Tottenham Hotspur,AFC Bournemouth,0.806,0.0515,0.1425,Home Win
+10/14/17,2411,Manchester City,Stoke City,0.8492,0.0362,0.1146,Home Win
+10/14/17,2411,Swansea City,Huddersfield Town,0.5134,0.1876,0.299,Home Win
+10/14/17,2411,Burnley,West Ham United,0.4492,0.268,0.2828,Home Win
+10/14/17,2411,Crystal Palace,Chelsea,0.1498,0.6394,0.2108,Away Win
+10/14/17,2411,Watford,Arsenal,0.2227,0.5521,0.2252,Away Win
+10/15/17,2411,Brighton and Hove Albion,Everton,0.2978,0.4087,0.2936,Away Win
+10/15/17,2411,Southampton,Newcastle,0.4999,0.2146,0.2854,Home Win
+10/16/17,2411,Leicester City,West Bromwich Albion,0.5163,0.2118,0.272,Home Win
+10/20/17,2411,West Ham United,Brighton and Hove Albion,0.5538,0.1763,0.27,Home Win
+10/21/17,2411,Chelsea,Watford,0.7637,0.0756,0.1607,Home Win
+10/21/17,2411,Huddersfield Town,Manchester United,0.0884,0.7162,0.1954,Away Win
+10/21/17,2411,Manchester City,Burnley,0.8536,0.0334,0.113,Home Win
+10/21/17,2411,Newcastle,Crystal Palace,0.44,0.2784,0.2816,Home Win
+10/21/17,2411,Swansea City,Leicester City,0.3762,0.3337,0.2901,Home Win
+10/21/17,2411,Stoke City,AFC Bournemouth,0.4984,0.2416,0.26,Home Win
+10/21/17,2411,Southampton,West Bromwich Albion,0.5021,0.2096,0.2883,Home Win
+10/22/17,2411,Everton,Arsenal,0.2793,0.4754,0.2452,Away Win
+10/22/17,2411,Tottenham Hotspur,Liverpool,0.4903,0.2566,0.253,Home Win
+10/28/17,2411,Manchester United,Tottenham Hotspur,0.4432,0.2852,0.2717,Home Win
+10/28/17,2411,Crystal Palace,West Ham United,0.4416,0.2835,0.2749,Home Win
+10/28/17,2411,West Bromwich Albion,Manchester City,0.0899,0.7388,0.1713,Away Win
+10/28/17,2411,Watford,Stoke City,0.4556,0.2864,0.258,Home Win
+10/28/17,2411,Arsenal,Swansea City,0.7642,0.0748,0.161,Home Win
+10/28/17,2411,Liverpool,Huddersfield Town,0.8162,0.0439,0.1399,Home Win
+10/28/17,2411,AFC Bournemouth,Chelsea,0.1876,0.5907,0.2217,Away Win
+10/29/17,2411,Brighton and Hove Albion,Southampton,0.3287,0.364,0.3074,Away Win
+10/29/17,2411,Leicester City,Everton,0.4678,0.2707,0.2615,Home Win
+10/30/17,2411,Burnley,Newcastle,0.4666,0.2387,0.2947,Home Win
+11/4/17,2411,Stoke City,Leicester City,0.4056,0.3231,0.2713,Home Win
+11/4/17,2411,Southampton,Burnley,0.4567,0.2472,0.2961,Home Win
+11/4/17,2411,Huddersfield Town,West Bromwich Albion,0.3537,0.3222,0.3241,Home Win
+11/4/17,2411,Newcastle,AFC Bournemouth,0.4507,0.2578,0.2915,Home Win
+11/4/17,2411,Swansea City,Brighton and Hove Albion,0.459,0.2361,0.3049,Home Win
+11/4/17,2411,West Ham United,Liverpool,0.1897,0.5933,0.217,Away Win
+11/5/17,2411,Tottenham Hotspur,Crystal Palace,0.8118,0.0472,0.141,Home Win
+11/5/17,2411,Manchester City,Arsenal,0.667,0.1481,0.185,Home Win
+11/5/17,2411,Chelsea,Manchester United,0.3863,0.3489,0.2648,Home Win
+11/5/17,2411,Everton,Watford,0.4398,0.2922,0.268,Home Win
+11/18/17,2411,Arsenal,Tottenham Hotspur,0.3497,0.3913,0.259,Away Win
+11/18/17,2411,Crystal Palace,Everton,0.4198,0.3073,0.273,Home Win
+11/18/17,2411,AFC Bournemouth,Huddersfield Town,0.5231,0.1857,0.2913,Home Win
+11/18/17,2411,Burnley,Swansea City,0.4973,0.2057,0.2971,Home Win
+11/18/17,2411,West Bromwich Albion,Chelsea,0.1806,0.5782,0.2412,Away Win
+11/18/17,2411,Leicester City,Manchester City,0.1343,0.6819,0.1837,Away Win
+11/18/17,2411,Liverpool,Southampton,0.6894,0.1124,0.1983,Home Win
+11/18/17,2411,Manchester United,Newcastle,0.8095,0.0385,0.1521,Home Win
+11/19/17,2411,Watford,West Ham United,0.4937,0.2547,0.2517,Home Win
+11/20/17,2411,Brighton and Hove Albion,Stoke City,0.3703,0.3364,0.2933,Home Win
+11/24/17,2411,West Ham United,Leicester City,0.3688,0.3581,0.2731,Home Win
+11/25/17,2411,Manchester United,Brighton and Hove Albion,0.8228,0.034,0.1432,Home Win
+11/25/17,2411,Swansea City,AFC Bournemouth,0.3918,0.3135,0.2947,Home Win
+11/25/17,2411,Crystal Palace,Stoke City,0.4215,0.3105,0.268,Home Win
+11/25/17,2411,Newcastle,Watford,0.3888,0.3317,0.2795,Home Win
+11/25/17,2411,Tottenham Hotspur,West Bromwich Albion,0.8178,0.0343,0.1479,Home Win
+11/25/17,2411,Liverpool,Chelsea,0.4251,0.3324,0.2425,Home Win
+11/26/17,2411,Southampton,Everton,0.4673,0.2608,0.2718,Home Win
+11/26/17,2411,Burnley,Arsenal,0.2548,0.4819,0.2633,Away Win
+11/26/17,2411,Huddersfield Town,Manchester City,0.0605,0.7995,0.14,Away Win
+11/28/17,2411,Brighton and Hove Albion,Crystal Palace,0.3881,0.3117,0.3002,Home Win
+11/28/17,2411,Leicester City,Tottenham Hotspur,0.2104,0.5352,0.2544,Away Win
+11/28/17,2411,Watford,Manchester United,0.2119,0.5462,0.2419,Away Win
+11/28/17,2411,West Bromwich Albion,Newcastle,0.4498,0.2491,0.3011,Home Win
+11/29/17,2411,Arsenal,Huddersfield Town,0.8266,0.038,0.1354,Home Win
+11/29/17,2411,Chelsea,Swansea City,0.8256,0.0393,0.1351,Home Win
+11/29/17,2411,AFC Bournemouth,Burnley,0.4088,0.2842,0.307,Home Win
+11/29/17,2411,Manchester City,Southampton,0.8402,0.0386,0.1213,Home Win
+11/29/17,2411,Everton,West Ham United,0.4545,0.2893,0.2562,Home Win
+11/29/17,2411,Stoke City,Liverpool,0.2023,0.5803,0.2174,Away Win
+12/2/17,2411,Chelsea,Newcastle,0.8207,0.0458,0.1334,Home Win
+12/2/17,2411,Watford,Tottenham Hotspur,0.2167,0.5458,0.2374,Away Win
+12/2/17,2411,Everton,Huddersfield Town,0.5725,0.178,0.2495,Home Win
+12/2/17,2411,Leicester City,Burnley,0.453,0.2528,0.2942,Home Win
+12/2/17,2411,Stoke City,Swansea City,0.495,0.2247,0.2802,Home Win
+12/2/17,2411,West Bromwich Albion,Crystal Palace,0.387,0.3115,0.3015,Home Win
+12/2/17,2411,Brighton and Hove Albion,Liverpool,0.1533,0.6202,0.2265,Away Win
+12/2/17,2411,Arsenal,Manchester United,0.4194,0.3221,0.2585,Home Win
+12/3/17,2411,AFC Bournemouth,Southampton,0.3701,0.3392,0.2907,Home Win
+12/3/17,2411,Manchester City,West Ham United,0.8932,0.0243,0.0824,Home Win
+12/9/17,2411,West Ham United,Chelsea,0.1454,0.6575,0.1971,Away Win
+12/9/17,2411,Crystal Palace,AFC Bournemouth,0.4571,0.2572,0.2857,Home Win
+12/9/17,2411,Burnley,Watford,0.4206,0.293,0.2864,Home Win
+12/9/17,2411,Swansea City,West Bromwich Albion,0.4153,0.2633,0.3214,Home Win
+12/9/17,2411,Huddersfield Town,Brighton and Hove Albion,0.3562,0.314,0.3298,Home Win
+12/9/17,2411,Tottenham Hotspur,Stoke City,0.7731,0.0668,0.1601,Home Win
+12/9/17,2411,Newcastle,Leicester City,0.3498,0.3669,0.2833,Away Win
+12/10/17,2411,Southampton,Arsenal,0.2283,0.5376,0.2341,Away Win
+12/10/17,2411,Liverpool,Everton,0.8039,0.0659,0.1302,Home Win
+12/10/17,2411,Manchester United,Manchester City,0.3433,0.409,0.2477,Away Win
+12/12/17,2411,Burnley,Stoke City,0.4735,0.2451,0.2814,Home Win
+12/12/17,2411,Crystal Palace,Watford,0.4017,0.3265,0.2718,Home Win
+12/12/17,2411,Huddersfield Town,Chelsea,0.1127,0.6868,0.2005,Away Win
+12/13/17,2411,Swansea City,Manchester City,0.097,0.7219,0.1811,Away Win
+12/13/17,2411,Southampton,Leicester City,0.4502,0.2679,0.2819,Home Win
+12/13/17,2411,Newcastle,Everton,0.3758,0.3571,0.2671,Home Win
+12/13/17,2411,West Ham United,Arsenal,0.1556,0.6497,0.1947,Away Win
+12/13/17,2411,Manchester United,AFC Bournemouth,0.7863,0.0635,0.1502,Home Win
+12/13/17,2411,Liverpool,West Bromwich Albion,0.8327,0.0404,0.1269,Home Win
+12/13/17,2411,Tottenham Hotspur,Brighton and Hove Albion,0.8382,0.0297,0.1321,Home Win
+12/16/17,2411,Leicester City,Crystal Palace,0.5076,0.2302,0.2623,Home Win
+12/16/17,2411,Stoke City,West Ham United,0.4854,0.2523,0.2622,Home Win
+12/16/17,2411,Watford,Huddersfield Town,0.6052,0.1488,0.2461,Home Win
+12/16/17,2411,Chelsea,Southampton,0.7586,0.0743,0.1671,Home Win
+12/16/17,2411,Brighton and Hove Albion,Burnley,0.3261,0.3388,0.3351,Away Win
+12/16/17,2411,Arsenal,Newcastle,0.8335,0.0457,0.1209,Home Win
+12/16/17,2411,Manchester City,Tottenham Hotspur,0.5701,0.1985,0.2314,Home Win
+12/17/17,2411,West Bromwich Albion,Manchester United,0.1737,0.5774,0.2488,Away Win
+12/17/17,2411,AFC Bournemouth,Liverpool,0.1619,0.6303,0.2078,Away Win
+12/18/17,2411,Everton,Swansea City,0.5342,0.1924,0.2734,Home Win
+12/22/17,2411,Arsenal,Liverpool,0.4218,0.3374,0.2408,Home Win
+12/23/17,2411,Everton,Chelsea,0.1995,0.5742,0.2263,Away Win
+12/23/17,2411,West Ham United,Newcastle,0.488,0.2382,0.2738,Home Win
+12/23/17,2411,Southampton,Huddersfield Town,0.55,0.1779,0.272,Home Win
+12/23/17,2411,Manchester City,AFC Bournemouth,0.9011,0.0205,0.0784,Home Win
+12/23/17,2411,Swansea City,Crystal Palace,0.3246,0.3705,0.3049,Away Win
+12/23/17,2411,Stoke City,West Bromwich Albion,0.4517,0.2617,0.2866,Home Win
+12/23/17,2411,Brighton and Hove Albion,Watford,0.3503,0.3602,0.2895,Away Win
+12/23/17,2411,Burnley,Tottenham Hotspur,0.2144,0.5073,0.2783,Away Win
+12/23/17,2411,Leicester City,Manchester United,0.2429,0.5111,0.246,Away Win
+12/26/17,2411,Tottenham Hotspur,Southampton,0.7602,0.0691,0.1707,Home Win
+12/26/17,2411,Huddersfield Town,Stoke City,0.3971,0.3253,0.2776,Home Win
+12/26/17,2411,Manchester United,Burnley,0.6868,0.0983,0.2149,Home Win
+12/26/17,2411,Watford,Leicester City,0.3927,0.3475,0.2597,Home Win
+12/26/17,2411,AFC Bournemouth,West Ham United,0.4264,0.2985,0.2752,Home Win
+12/26/17,2411,Chelsea,Brighton and Hove Albion,0.8335,0.0293,0.1371,Home Win
+12/26/17,2411,West Bromwich Albion,Everton,0.3769,0.3282,0.295,Home Win
+12/26/17,2411,Liverpool,Swansea City,0.8649,0.0273,0.1078,Home Win
+12/27/17,2411,Newcastle,Manchester City,0.0777,0.7801,0.1422,Away Win
+12/28/17,2411,Crystal Palace,Arsenal,0.2152,0.5563,0.2286,Away Win
+12/30/17,2411,Liverpool,Leicester City,0.7889,0.0711,0.1401,Home Win
+12/30/17,2411,Watford,Swansea City,0.5372,0.1977,0.2651,Home Win
+12/30/17,2411,AFC Bournemouth,Everton,0.386,0.3403,0.2736,Home Win
+12/30/17,2411,Newcastle,Brighton and Hove Albion,0.4489,0.2462,0.3049,Home Win
+12/30/17,2411,Huddersfield Town,Burnley,0.3472,0.33,0.3227,Home Win
+12/30/17,2411,Chelsea,Stoke City,0.8182,0.0517,0.1301,Home Win
+12/30/17,2411,Manchester United,Southampton,0.6731,0.128,0.1989,Home Win
+12/31/17,2411,Crystal Palace,Manchester City,0.1216,0.6947,0.1836,Away Win
+12/31/17,2411,West Bromwich Albion,Arsenal,0.1629,0.6149,0.2222,Away Win
+1/1/18,2411,Brighton and Hove Albion,AFC Bournemouth,0.3902,0.3058,0.304,Home Win
+1/1/18,2411,Burnley,Liverpool,0.1736,0.5934,0.233,Away Win
+1/1/18,2411,Stoke City,Newcastle,0.4679,0.2652,0.2669,Home Win
+1/1/18,2411,Leicester City,Huddersfield Town,0.5801,0.1664,0.2536,Home Win
+1/1/18,2411,Everton,Manchester United,0.2309,0.5257,0.2434,Away Win
+1/2/18,2411,Swansea City,Tottenham Hotspur,0.1299,0.658,0.2121,Away Win
+1/2/18,2411,Southampton,Crystal Palace,0.4225,0.2965,0.281,Home Win
+1/2/18,2411,West Ham United,West Bromwich Albion,0.4364,0.2763,0.2874,Home Win
+1/2/18,2411,Manchester City,Watford,0.89,0.0252,0.0848,Home Win
+1/3/18,2411,Arsenal,Chelsea,0.4013,0.35,0.2487,Home Win
+1/4/18,2411,Tottenham Hotspur,West Ham United,0.8166,0.0537,0.1297,Home Win
+1/13/18,2411,Chelsea,Leicester City,0.7571,0.0779,0.1651,Home Win
+1/13/18,2411,Newcastle,Swansea City,0.4668,0.2258,0.3074,Home Win
+1/13/18,2411,Watford,Southampton,0.4227,0.3128,0.2645,Home Win
+1/13/18,2411,Huddersfield Town,West Ham United,0.3581,0.3543,0.2876,Home Win
+1/13/18,2411,West Bromwich Albion,Brighton and Hove Albion,0.462,0.2139,0.3241,Home Win
+1/13/18,2411,Crystal Palace,Burnley,0.4705,0.23,0.2995,Home Win
+1/13/18,2411,Tottenham Hotspur,Everton,0.7813,0.0633,0.1554,Home Win
+1/14/18,2411,AFC Bournemouth,Arsenal,0.1723,0.6335,0.1941,Away Win
+1/14/18,2411,Liverpool,Manchester City,0.3596,0.3981,0.2424,Away Win
+1/15/18,2411,Manchester United,Stoke City,0.7891,0.0661,0.1448,Home Win
+1/20/18,2411,Brighton and Hove Albion,Chelsea,0.1238,0.6575,0.2187,Away Win
+1/20/18,2411,Everton,West Bromwich Albion,0.4505,0.2526,0.2969,Home Win
+1/20/18,2411,Stoke City,Huddersfield Town,0.5043,0.2256,0.2701,Home Win
+1/20/18,2411,Burnley,Manchester United,0.2437,0.4763,0.28,Away Win
+1/20/18,2411,West Ham United,AFC Bournemouth,0.4625,0.2869,0.2507,Home Win
+1/20/18,2411,Leicester City,Watford,0.5334,0.2253,0.2413,Home Win
+1/20/18,2411,Arsenal,Crystal Palace,0.6599,0.1418,0.1983,Home Win
+1/20/18,2411,Manchester City,Newcastle,0.8981,0.018,0.0838,Home Win
+1/21/18,2411,Southampton,Tottenham Hotspur,0.177,0.5988,0.2242,Away Win
+1/22/18,2411,Swansea City,Liverpool,0.1086,0.7119,0.1795,Away Win
+1/30/18,2411,West Ham United,Crystal Palace,0.3948,0.3383,0.2669,Home Win
+1/30/18,2411,Swansea City,Arsenal,0.1458,0.6473,0.2069,Away Win
+1/30/18,2411,Huddersfield Town,Liverpool,0.0906,0.7456,0.1638,Away Win
+1/31/18,2411,Newcastle,Burnley,0.3592,0.3189,0.3219,Home Win
+1/31/18,2411,Everton,Leicester City,0.3458,0.3776,0.2766,Away Win
+1/31/18,2411,Chelsea,AFC Bournemouth,0.8084,0.0532,0.1385,Home Win
+1/31/18,2411,Southampton,Brighton and Hove Albion,0.5415,0.1834,0.275,Home Win
+1/31/18,2411,Manchester City,West Bromwich Albion,0.8688,0.0243,0.1069,Home Win
+1/31/18,2411,Tottenham Hotspur,Manchester United,0.5206,0.2313,0.248,Home Win
+1/31/18,2411,Stoke City,Watford,0.4076,0.337,0.2555,Home Win
+2/3/18,2411,Burnley,Manchester City,0.1259,0.6629,0.2112,Away Win
+2/3/18,2411,West Bromwich Albion,Southampton,0.3966,0.2985,0.3049,Home Win
+2/3/18,2411,Brighton and Hove Albion,West Ham United,0.3565,0.3521,0.2914,Home Win
+2/3/18,2411,Manchester United,Huddersfield Town,0.8268,0.033,0.1402,Home Win
+2/3/18,2411,AFC Bournemouth,Stoke City,0.5279,0.2246,0.2475,Home Win
+2/3/18,2411,Leicester City,Swansea City,0.5693,0.1671,0.2636,Home Win
+2/3/18,2411,Arsenal,Everton,0.7596,0.0885,0.1518,Home Win
+2/4/18,2411,Crystal Palace,Newcastle,0.5425,0.1968,0.2607,Home Win
+2/4/18,2411,Liverpool,Tottenham Hotspur,0.4718,0.2843,0.2439,Home Win
+2/5/18,2411,Watford,Chelsea,0.1872,0.5899,0.2229,Away Win
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
