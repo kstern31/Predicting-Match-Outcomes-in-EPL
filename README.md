@@ -8,6 +8,6 @@ multiple pages per team, and is very prone to erroring out (due to elements not 
 collection is within try/except blocks. You can consolidate parts of this notebook, as I had mistakenly not collected all the
 data I wanted in one session.
 
-3. EDA, data cleaning, and feature enguneering in the data_collection_and_analysis/composite folder
+3. EDA, data cleaning, and feature engineering in the data_collection_and_analysis/composite folder
 
 4. Modeling is done in the Data Transformation and Modeling notebook. pulled in 538 predictions from the spi_matches.csv.
